@@ -16,7 +16,7 @@ This suite includes a wide range of modules for security research, including:
 *   **Wireless/Bluetooth:** Specialized modules for Wi-Fi (WPA/WPA2) and IoT interaction.
 *   **Social Engineering:** SMS bombing and spoofing capabilities.
 
-##persian README:
+##persian README##
 *    https://github.com/incognito68a633372/Hacking-tools/blob/main/README_FA.md
 
 ## Installation
