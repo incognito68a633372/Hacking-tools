@@ -16,18 +16,10 @@ This suite includes a wide range of modules for security research, including:
 *   **Wireless/Bluetooth:** Specialized modules for Wi-Fi (WPA/WPA2) and IoT interaction.
 *   **Social Engineering:** SMS bombing and spoofing capabilities.
 
-## Requirements
-The project relies on several powerful Python libraries for network manipulation and asynchronous tasks:
-
-*   `Python 3.x`
-*   `scapy` (For packet manipulation)
-*   `aiohttp` (For asynchronous network requests)
-*   `asyncio`
-*   `argparse`
 
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/INCOGNITOH4CK3R/all_in_one_hacking.git
-   cd all_in_one_hacking
-   
+   git clone https://github.com/incognito68a633372/Hacking-tools
+   cd Hacking-tools
+   pip install -r requirements.txt
