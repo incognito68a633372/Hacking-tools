@@ -20,6 +20,7 @@ This suite includes a wide range of modules for security research, including:
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/incognito68a633372/Hacking-tools
-   cd Hacking-tools
-   pip install -r requirements.txt
+git clone https://github.com/incognito68a633372/Hacking-tools
+cd Hacking-tools
+pip install -r requirements.txt
+python main.py
